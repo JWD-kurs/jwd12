@@ -4,16 +4,16 @@
 ----------------
 
 
-![Spring runtime](http://46.4.82.177/kursimages/spring-overview.png?raw=true) 
+![Spring runtime](https://cloud.githubusercontent.com/assets/5716823/15799911/0f481b4a-2a6d-11e6-8628-c06eb8cb3764.png) 
 
 Classical web - server side generated HTML:
 
-![Server side generated HTML](http://46.4.82.177/kursimages/web-centric.png)
+![Server side generated HTML](https://cloud.githubusercontent.com/assets/5716823/15799916/0f5ce692-2a6d-11e6-8a07-7365753bc98d.png)
 
 
 Data centric approach - server side generated data:
 
-![Data Centric](http://46.4.82.177/kursimages/data-centric.png)
+![Data Centric](https://cloud.githubusercontent.com/assets/5716823/15799914/0f5c1e1a-2a6d-11e6-8ee4-b0bf7e543599.png)
 
 
 ### Maven
