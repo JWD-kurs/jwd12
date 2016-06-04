@@ -43,7 +43,7 @@ Data centric approach - server side generated data:
 -----------------------
 
 
-![HLA](http://46.4.82.177/kursimages/hla.png)
+![HLA](https://cloud.githubusercontent.com/assets/5716823/15799912/0f59b56c-2a6d-11e6-936e-b3fc3d7a45ec.png)
 
 ----
 
