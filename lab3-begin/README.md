@@ -1,4 +1,4 @@
-﻿## Lab 5 - DTO, komponente, parametri
+﻿## Lab 3 - DTO, komponente, parametri
 
 ----
 
