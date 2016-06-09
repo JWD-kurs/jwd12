@@ -27,9 +27,7 @@ Uvođenjem novih DTO klasa javlja se potreba za konverzijom iz DTO u interne ent
 
 * Napraviti klasu `ActivityDTO` u paketu `jwd.wafepa.web.dto`. Polja klase `ActivityDTO` treba da budu ista kao polja klase `Activity` (`Long id`, `String name`).
 
-* Prebaciti sve anotacije koje se koriste za validaciju podataka iz `Activity` u `ActivityDTO`.
-
-* Izmeniti `ApiActivityController` da ne koristi `Activity` za prenos podataka između UI sloja i aplikacije, već `ActivityDTO`. Koristiti klase za konverziju.
+* Izmeniti `ApiActivityController` da ne koristi `Activity` za prenos podataka između UI sloja i aplikacije, već `ActivityDTO`. Koristiti konvertere.
 
 * Testirati napravljeni REST web servis
 
