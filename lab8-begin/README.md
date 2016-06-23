@@ -13,7 +13,7 @@ Veoma je dobro dokumentovan, sa velikim brojem primera korišćenja. Bootstrap s
 
 * Downloadovati Bootstrap CSS i importovati u projekat.
 
-* Iskoristiti neki od Bootstrap primera kao šablon za WAFEAPA web aplikaciju. Primeri na [http://getbootstrap.com/getting-started/#examples](http://getbootstrap.com/getting-started/#examples).
+* Iskoristiti neki od Bootstrap primera kao šablon za WAFEPA web aplikaciju. Primeri na [http://getbootstrap.com/getting-started/#examples](http://getbootstrap.com/getting-started/#examples).
 
 * Iskoristiti Bootstrap stilove za tabele na stranici za prikaz aktivnosti.
 
