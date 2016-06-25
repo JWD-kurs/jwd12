@@ -1,4 +1,4 @@
-﻿## Lab 9 - Pretraživanje, paginacija, custom direktive, custom servisi
+﻿## Lab 9 - Pretraživanje, paginacija, custom servisi
 
 ### Pretraživanje
 
